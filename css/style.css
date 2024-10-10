@@ -114,6 +114,10 @@ a:focus {
   padding: 10px 0;
 }
 
+.nav-item ::after{
+  color: #0355cc;
+}
+
 .navbar-brand {
   padding: 0;
   margin: 0;
@@ -451,6 +455,42 @@ a:focus {
 .header_section{
   background-color: #fff;
 }
+
+.service_section{
+  background-color: #fff;
+}
+
+.contact_section{
+  background-color: #fff;
+}
+
+.header_section{
+  background-color: #d1e3ff;
+}
+
+.header_bottom-a{
+  background-color: #fff;
+}
+
+.dddd{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+
+.text-r{
+  font-weight: 800;
+}
+
+.row .box{
+  height: 250px;
+  
+}
+
+.col-md-6 .img-box .tt{
+  height: 435px;
+}
+
 
 .professional_section {
   background-color: #d1e3ff;

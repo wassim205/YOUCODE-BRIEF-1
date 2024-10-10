@@ -6,7 +6,7 @@ Nous cherchons un **développeur Front-end UI/UX** talentueux pour transformer l
 
 ## Objectif
 
-- Migrer le site actuel vers un format multi-pages incluant les pages : Home, About, Services, Contact Us.
+- Migrer le site actuel vers un format multi-pages incluant les pages : Home, About, Services, CONTACTEZ-NOUS.
 - Garantir une navigation fluide et intuitive.
 - Respecter une charte graphique moderne centrée sur la santé.
 - Optimiser les performances et garantir une compatibilité mobile, tablette et desktop.
@@ -27,7 +27,7 @@ Nous cherchons un **développeur Front-end UI/UX** talentueux pour transformer l
 ## User Stories
 
 - En tant que **visiteur**, je veux naviguer facilement entre les différentes sections du site pour trouver rapidement les informations dont j'ai besoin.
-- En tant que **développeur Front-end UI/UX**, je dois créer des pages telles que Home, About, Services, Contact Us pour améliorer l'expérience utilisateur.
+- En tant que **développeur Front-end UI/UX**, je dois créer des pages telles que Home, About, Services, CONTACTEZ-NOUS pour améliorer l'expérience utilisateur.
 - (Bonus) En tant qu'**UX designer**, je dois réaliser une wireframe low-fidelity pour visualiser la structure de base et la navigation du site.
 
 ## Bonus et recommandations
