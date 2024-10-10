@@ -491,6 +491,10 @@ a:focus {
   height: 435px;
 }
 
+text{
+  color: #000000;
+}
+
 
 .professional_section {
   background-color: #d1e3ff;
@@ -717,7 +721,8 @@ a:focus {
   padding-left: 25px;
   background-color: #ffffff;
   outline: none;
-  color: #ffffff;
+  color: #0278da;
+  font-weight: bold;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
 }
