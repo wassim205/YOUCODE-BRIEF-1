@@ -80,7 +80,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  background-color: #d1e3ff;
+  background-color: #F1F1F1;
 }
 
 .header_section .container-fluid {
@@ -128,7 +128,7 @@ a:focus {
 }
 
 .navbar-brand span {
-  color: #0355cc;
+  color: #2A3C4E;
   /* text-transform: uppercase; */
 }
 
@@ -148,7 +148,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link,
 .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #0355cc;
+  color: #A1D6A0;
 }
 
 .custom_nav-container .form-inline .nav_search-btn {
@@ -306,7 +306,7 @@ a:focus {
 .slider_section .detail-box h1 {
   font-weight: bold;
   margin-bottom: 25px;
-  color: #0355cc;
+  color: #2A3C4E;
 }
 
 .slider_section .detail-box p {
@@ -319,16 +319,16 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #ff8a1d;
-  border: 1px solid #ff8a1d;
-  border-radius: 5px;
+  background-color: #FF6F61;
+  border: 1px solid #FF6F61;
+  border-radius: 25px  55px;
   color: #ffffff;
   margin-top: 15px;
 }
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #ff8a1d;
+  color: #FF6F61;
 }
 
 .slider_section .img-box img {
@@ -363,7 +363,7 @@ a:focus {
   text-align: center;
   margin: 0 10px;
   padding: 45px 15px;
-  background-color: #ffffff;
+  background-color: #F1F1F1;
   color: #555089;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -380,7 +380,7 @@ a:focus {
   width: 100%;
   height: auto;
   max-height: 100%;
-  fill: #726dae;
+  fill: #3e3b64;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -398,8 +398,8 @@ a:focus {
 
 .feature_section .feature_container .box:hover,
 .feature_section .feature_container .box.active {
-  background-color: #ff8a1d;
-  color: #ffffff;
+  background-color: #2A3C4E;
+  color: #d0ff00;
 }
 
 .feature_section .feature_container .box:hover .img-box svg,
@@ -409,7 +409,7 @@ a:focus {
 
 .feature_section .feature_container .box:hover .img-box svg path,
 .feature_section .feature_container .box.active .img-box svg path {
-  fill: #ffffff;
+  fill: #d0ff00;
 }
 
 .about_section .row {
@@ -433,15 +433,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
+  background-color: #00B8A9;
+  border: 1px solid #00B8A9;
   border-radius: 2px;
   color: #ffffff;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #00B8A9;
 }
 
 .about_section .img-box img {
@@ -449,27 +449,27 @@ a:focus {
 }
 
 .about_section{
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 .header_section{
-  background-color: #fff;
+  background-color: #F1F1F1;
 }
 
 .service_section{
-  background-color: #fff;
+  background-color: #F1F1F1;
 }
 
 .contact_section{
-  background-color: #fff;
+  background-color: #F1F1F1;
 }
 
 .header_section{
-  background-color: #d1e3ff;
+  background-color: #F1F1F1;
 }
 
 .header_bottom-a{
-  background-color: #fff;
+  background-color: #F1F1F1;
 }
 
 .dddd{
@@ -491,13 +491,41 @@ a:focus {
   height: 435px;
 }
 
+.col-md-6 .img-box .fff{
+  height: 535px;
+}
+
+.contactez{
+  margin-bottom: 30px;
+}
+
+h2{
+  color: #2A3C4E;
+}
+
+.header_bottom-at{
+  background-color: #ffffff;
+}
+
 text{
-  color: #000000;
+  color: #5A9BD5;
 }
 
 
+.contacte-table{
+  width: 400px;
+  margin-top: -10px;
+  font-weight: bold;
+  color: #2A3C4E;
+}
+
+
+.box{
+  border-radius: 35px 65px;
+}
+
 .professional_section {
-  background-color: #d1e3ff;
+  background-color: #ffffff;
 }
 
 .professional_section .row {
@@ -513,7 +541,7 @@ text{
 .professional_section .detail-box h2 {
   text-transform: uppercase;
   font-weight: bold;
-  color: #0355cc;
+  color: #2A3C4E;
 }
 
 .professional_section .detail-box p {
@@ -526,15 +554,15 @@ text{
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #ff8a1d;
-  border: 1px solid #ff8a1d;
+  background-color: #FF6F61;
+  border: 1px solid #FF6F61;
   border-radius: 2px;
   color: #ffffff;
 }
 
 .professional_section .detail-box a:hover {
   background-color: transparent;
-  color: #ff8a1d;
+  color: #FF6F61;
 }
 
 .service_section {
@@ -595,9 +623,8 @@ text{
 }
 
 .service_section .box:hover {
-  background-color: #ff8a1d;
-  color: #ffffff;
-
+  background-color: #2A3C4E;
+  color: #d0ff00;
 }
 
 /* .service_section .box:hover .img-box img {
@@ -620,15 +647,15 @@ text{
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
+  background-color: #00B8A9;
+  border: 1px solid #00B8A9;
   border-radius: 0;
   color: #ffffff;
 }
 
 .service_section .btn-box a:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #00B8A9;
 }
 
 .client_section .heading_container {
@@ -703,10 +730,11 @@ text{
 .client_section .owl-carousel .owl-nav button {
   width: 50px;
   height: 50px;
-  background-color: #0355cc;
+  background-color: #00B8A9;
   outline: none;
   margin: 0 20px;
   color: #ffffff;
+  border-radius: 10px;
 }
 
 .heading_container {
@@ -721,7 +749,7 @@ text{
   padding-left: 25px;
   background-color: #ffffff;
   outline: none;
-  color: #0278da;
+  color: #A1D6A0;
   font-weight: bold;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
   box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
@@ -753,20 +781,22 @@ text{
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 55px;
-  background-color: #0355cc;
-  border: 1px solid #0355cc;
+  background-color: #00B8A9;
+  border: 1px solid #00B8A9;
   border-radius: 0;
   color: #ffffff;
   margin-top: 15px;
+  border-radius: 20px 5px;
 }
 
 .contact_section button:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #00B8A9;
 }
 
 .contact_section .map_container {
-  height: 360px;
+  height: 548px;
+  margin: -10px;
 }
 
 .contact_section .map_container .map {
@@ -807,7 +837,7 @@ text{
 
 .info_section a {
   margin: 0 5px;
-  color: #0355cc;
+  color: #00B8A9;
 }
 
 .info_section a i {
@@ -815,7 +845,7 @@ text{
 }
 
 .info_section a:hover {
-  color: #ff8a1d;
+  color: #2A3C4E;
 }
 
 .info_items a {
@@ -845,7 +875,7 @@ text{
   background-position: center;
   text-align: center;
   line-height: 80px;
-  background-color: #0355cc;
+  background-color: #00B8A9;
   color: #ffffff;
 }
 
@@ -861,7 +891,8 @@ text{
 }
 
 .info_items .item:hover .img-box {
-  background-color: #ff8a1d;
+  background-color: #ffffff;
+  color: #00B8A9;
 }
 
 .info_items {
